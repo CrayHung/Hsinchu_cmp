@@ -1,0 +1,6 @@
+classes= 1
+train  = /root/AI/example/train/yolo/train_list.txt
+valid  = /root/AI/example/valid/yolo/valid_list.txt
+names = ./modules/cfg/plate.names
+backup = backup
+

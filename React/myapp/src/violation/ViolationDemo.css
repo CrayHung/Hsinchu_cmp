@@ -1,0 +1,16 @@
+.wrapper{
+    display: flex;
+    width: 100%;
+}
+
+.left{
+    width: 50%;
+    height: 100vh;
+    overflow: auto;
+}
+
+.right{
+    width: 50%;
+    height: 100vh;
+    overflow: auto;
+}
